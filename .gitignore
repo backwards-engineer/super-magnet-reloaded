@@ -1,0 +1,22 @@
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_*
+.ssh/
+.aws/
+.codex/
+.agents/
+*credentials*.json
+*secret*.json
+
+# Dependencies and generated output
+node_modules/
+coverage/
+*.log
+.DS_Store
+Thumbs.db

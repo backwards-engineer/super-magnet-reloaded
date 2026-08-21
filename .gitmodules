@@ -1,0 +1,3 @@
+[submodule "super-magnet"]
+	path = super-magnet
+	url = https://github.com/backwards-engineer/super-magnet.git
