@@ -2,6 +2,8 @@
 
 A local, interactive particle laboratory based on Daniel White’s SuperMagnet. The original AMOS files are preserved without modification in the [`backwards-engineer/super-magnet`](https://github.com/backwards-engineer/super-magnet) repository, included here as the `super-magnet/` Git submodule.
 
+![Elastic bridge experiment with a connected nine-particle weight resting on the spring bridge, alongside live world controls.](docs/images/elastic-bridge.png)
+
 ## Run on Windows
 
 Install Node.js (already available on this machine), then double-click **Start Super Magnet.cmd**. Keep the server window open. Or run `npm start` and visit **http://localhost:4173**. The server binds only to the local machine. There are no dependencies to install. External fonts are optional; system fonts work offline.
